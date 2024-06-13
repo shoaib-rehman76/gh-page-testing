@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://gh-page-testing.github.io/react-gh-pages",
+  "homepage": "https://shoaib-rehman76.github.io/gh-page-testing",
   "scripts": {
     "dev": "vite",
     "deploy": "gh-pages -d dist",
